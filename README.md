@@ -8,3 +8,15 @@ Bivariate analysis is a statistical method to study the relationship between exa
 It helps researchers understand patterns, test simple hypotheses, and make predictions by identifying if variables move together (positive), in opposite directions (negative), or have no clear link, differentiating correlation from causation.
 ## Multivariate analysis
 Multivariate analysis (MVA) is a set of statistical methods for analyzing data with multiple variables simultaneously, revealing complex patterns, correlations, and relationships that single-variable (univariate) or two-variable (bivariate) analyses miss, helping to understand how factors interact in real-world scenarios like marketing, science, or finance for better predictions and decisions.
+
+
+## Feedback & Review
+This project is open for public review.
+
+I would appreciate feedback on:
+- Data preprocessing and EDA approach
+- Insight quality and relevance to healthcare
+- Visualisation effectiveness
+- Code readability and documentation
+
+Please feel free to raise an issue or share suggestions.
